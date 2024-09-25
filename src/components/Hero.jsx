@@ -21,7 +21,7 @@ const Hero = () => {
                     initial="hidden"
                     animate="visible"
                     classame="pb-16 text-6xl font-thin tracking-tight
-                    lg:mt-16 lg:text-8xl">Kevin Rush</motion.h1>
+                    lg:mt-16 lg:text-8xl">Wisdom Williams</motion.h1>
 
                     <motion.span 
                     variants={container(0.5)}
